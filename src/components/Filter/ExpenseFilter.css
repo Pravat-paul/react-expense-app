@@ -1,0 +1,21 @@
+/* filter */
+.expense_module__filter{
+	height: 20px;
+	color: #fff;
+	padding: 15px 0px;
+	margin: 10px;
+}
+.expense_filter__title{
+	width: 80%;
+	float: left;
+}
+.expense_filter__title h4{
+	margin: 0px;
+}
+.expense_filter__dropdown{
+	width: 20%;
+	float: left;
+}
+.expense_filter__year {
+	float: right;
+}

@@ -1,0 +1,11 @@
+
+.expense_module__section {
+	background: #383839;
+	padding: 20px;
+	margin: 5px 20%;
+}
+
+.noRecords {
+	color: #fff;
+	text-align: center;
+}

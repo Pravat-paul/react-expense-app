@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+.main_body__section{
+	background: #686768;
+	min-height: 100vh;
+	overflow: auto;
+}
+
+.expense_app__title {
+	text-align: center;
+	color: #fff;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
